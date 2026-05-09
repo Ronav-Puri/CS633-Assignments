@@ -1,0 +1,60 @@
+==========================================
+SLURM_CLUSTER_NAME = paramrudra
+SLURM_ARRAY_JOB_ID = 
+SLURM_ARRAY_TASK_ID = 
+SLURM_ARRAY_TASK_COUNT = 
+SLURM_ARRAY_TASK_MAX = 
+SLURM_ARRAY_TASK_MIN = 
+SLURM_JOB_ACCOUNT = iitk
+SLURM_JOB_ID = 19312
+SLURM_JOB_NAME = P96_N120
+SLURM_JOB_NODELIST = rdcn[30-31]
+SLURM_JOB_USER = iitk_26
+SLURM_JOB_UID = 55327
+SLURM_JOB_PARTITION = cpu
+SLURM_TASK_PID = 1965508
+SLURM_SUBMIT_DIR = /home/iitk_26/assignment2
+SLURM_CPUS_ON_NODE = 48
+SLURM_NTASKS = 96
+SLURM_TASK_PID = 1965508
+==========================================
+=== Output for P=96, N=120, Run=1 ===
+312320 314000 
+68723 70335 
+14717 15041 
+2840 2728 
+432 476 
+0.796809
+========================================
+=== Output for P=96, N=120, Run=2 ===
+312320 314000 
+68723 70335 
+14717 15041 
+2840 2728 
+432 476 
+0.793265
+========================================
+=== Output for P=96, N=120, Run=3 ===
+312320 314000 
+68723 70335 
+14717 15041 
+2840 2728 
+432 476 
+0.803450
+========================================
+=== Output for P=96, N=120, Run=4 ===
+312320 314000 
+68723 70335 
+14717 15041 
+2840 2728 
+432 476 
+0.789165
+========================================
+=== Output for P=96, N=120, Run=5 ===
+312320 314000 
+68723 70335 
+14717 15041 
+2840 2728 
+432 476 
+0.790443
+========================================
